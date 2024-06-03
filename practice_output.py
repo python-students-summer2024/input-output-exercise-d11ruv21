@@ -9,14 +9,14 @@ def print_with_line_break():
     """
     Prints out the text, 'Hello world!' with a line break at the end
     """
-    print("Hello World!")
+    print("Hello world!")
 
 
 def print_without_line_break():
     """
     Prints out the text, 'Hello world!' without a line break at the end
     """
-    print("Hello World!", end="")
+    print("Hello world!", end="")
 
 
 def print_with_separator_dash_and_with_line_break():
